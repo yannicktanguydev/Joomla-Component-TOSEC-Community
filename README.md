@@ -1,0 +1,2 @@
+Joomla-Component-TOSEC-Community
+================================
